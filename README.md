@@ -4,7 +4,7 @@
 
 
 ### Project 1 - Self Portrait
-P5 Resources: Shapes, Colors, Stroke, Coordinates
+P5 Resources: Shapes, Colors, Stroke, Coordinates, mouseX, mouseY
 
 ### Project 2 - Taijutu Symbol
 https://nycdoe-cs4all.github.io/units/1/lessons/lesson_1.5
